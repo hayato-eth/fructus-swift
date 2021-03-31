@@ -57,8 +57,8 @@
 		DA31935726138E1C004361C2 /* Shared */ = {
 			isa = PBXGroup;
 			children = (
-				DA31935826138E1C004361C2 /* FructusApp.swift */,
-				DA31935926138E1C004361C2 /* ContentView.swift */,
+				DA31937E26141294004361C2 /* View */,
+				DA31937B26141212004361C2 /* App */,
 				DA31935A26138E1D004361C2 /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -88,6 +88,22 @@
 				DA31936A26138E1D004361C2 /* macOS.entitlements */,
 			);
 			path = macOS;
+			sourceTree = "<group>";
+		};
+		DA31937B26141212004361C2 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				DA31935826138E1C004361C2 /* FructusApp.swift */,
+				DA31935926138E1C004361C2 /* ContentView.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		DA31937E26141294004361C2 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
