@@ -18,6 +18,7 @@
 		DA31938A26141F04004361C2 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA31938926141F04004361C2 /* OnboardingView.swift */; };
 		DA31938F26142324004361C2 /* FruitModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA31938E26142324004361C2 /* FruitModel.swift */; };
 		DA319396261424F5004361C2 /* FruitData.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA319395261424F5004361C2 /* FruitData.swift */; };
+		DA31939C261434D4004361C2 /* FruitRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA31939B261434D4004361C2 /* FruitRowView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		DA31938926141F04004361C2 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		DA31938E26142324004361C2 /* FruitModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitModel.swift; sourceTree = "<group>"; };
 		DA319395261424F5004361C2 /* FruitData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitData.swift; sourceTree = "<group>"; };
+		DA31939B261434D4004361C2 /* FruitRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitRowView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +119,7 @@
 			children = (
 				DA31937F26141344004361C2 /* FruitCardView.swift */,
 				DA3193852614198A004361C2 /* StartButtonView.swift */,
+				DA31939B261434D4004361C2 /* FruitRowView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -236,6 +239,7 @@
 			files = (
 				DA319396261424F5004361C2 /* FruitData.swift in Sources */,
 				DA31938026141344004361C2 /* FruitCardView.swift in Sources */,
+				DA31939C261434D4004361C2 /* FruitRowView.swift in Sources */,
 				DA3193862614198A004361C2 /* StartButtonView.swift in Sources */,
 				DA31936D26138E1D004361C2 /* ContentView.swift in Sources */,
 				DA31938A26141F04004361C2 /* OnboardingView.swift in Sources */,
